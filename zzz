@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>サンプルページ</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 40px;
+      background: #f3f3f3;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>　謎解きの始まり</h1>
+  <p>この謎はこのパソコンで解いてもらいます。
+また、無断での転載、使用は禁止します。
+パソコンの種類によっては謎が正常に動作しない場合があります。</p>
+
+</body>
+</html>
